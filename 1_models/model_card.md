@@ -8,5 +8,6 @@
 **Nodes.** A campus item is a node with a status (`unknown`, `exists`, `absent`, `planned`, `map label only`). `null` load means "not modelled". Nodes with status `exists` and parameters build an extra option, "Existing campus assets".
 **Metrics.** Survival share is an equal-weight share of start hours, not the probability of a real outage. Autonomy = hours before the first shortfall (capped at 336 h).
 **Checks.** 29 self-tests: zero and huge load, store bounds, energy limits, monotonic survival, battery doubling, resupply never worse, unserved ≤ demand.
-**Known limits.** No equipment failure; no inverter, ramp or tank-pressure effects; no cost; no emissions beyond diesel burned; synthetic temperature and solar; hydrogen water use uses a typical 9 kg/kg value (to be sourced).
+**Known limits.** No equipment failure; no inverter, ramp or tank-pressure effects; no cost; no emissions beyond diesel burned; synthetic temperature and solar; electrolysis water use is taken as 9 kg per kg of hydrogen (the stoichiometric minimum; real systems need more).
+**Figures.** The images in `figures/` are produced from synthetic inputs and say so in their titles; they are not results.
 **Not for.** Any statement about real ATÜ performance until real data are loaded and marked `verified`.

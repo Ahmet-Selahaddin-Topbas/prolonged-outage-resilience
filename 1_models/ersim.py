@@ -35,7 +35,7 @@ def input_status(cfg):
         rows.append((f"source {k}", vals, v["origin"], False))
     rows.append(("weather", f"T_ref {cfg['weather']['t_ref_c']} °C, heat wave +{cfg['weather']['heat_wave_add_c']} °C", cfg["weather"]["origin"], False))
     for n in cfg["nodes"]:
-        rows.append((f"node {n['id']} {n['label']}", f"status: {n['status']}; load_kw: {n['load_kw']}", "walk / faculty (pending)" if n["status"] == "unknown" else n["status"], n["verified"]))
+        rows.append((f"node {n['id']} {n['label']}", f"status: {n['status']}; load_kw: {n['load_kw']}", "to be verified on site" if n["status"] == "unknown" else n["status"], n["verified"]))
     return pd.DataFrame(rows, columns=["input", "value", "origin", "verified"])
 
 # ---------------------------------------------------------------- weather, loads, solar

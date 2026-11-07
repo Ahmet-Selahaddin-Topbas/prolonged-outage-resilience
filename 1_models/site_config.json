@@ -7,7 +7,7 @@
   },
   "equal_stored_energy_kwh": 20000,
   "indicators": {"diesel_kg_co2_per_litre": 2.68, "h2_lhv_kwh_per_kg": 33.3, "water_kg_per_kg_h2": 9.0,
-                 "origin": "typical literature values, to be sourced in the data register before use in results"},
+                 "origin": "typical literature values; not used in any reported result until referenced in the data register"},
   "weather": {"t_ref_c": 20.0, "heat_wave_add_c": 8.0, "origin": "synthetic"},
   "tiers": {
     "K1": {"name": "labs & servers",       "base_kw": 90.0, "cool_kw_per_c": 3.0,  "profile": "flat",        "origin": "placeholder"},

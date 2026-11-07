@@ -2,6 +2,10 @@
 *Minarai (見習い) means apprentice.* This is the record of *why* we did things and how our thinking changed. One file per week, at most one page, about 30 minutes of writing.
 **Rule.** Facts and opinions are written separately. Japanese items need a source link.
 
+W00 is a preface written in the same spirit; the Japan watch starts in W02.
+
+**Start a new week:** copy `_template.md` to `W01.md` (then `W02.md` ...) and fill it.
+
 ## Template
 1. **At the start of the week I thought ... / now I think ...**
 2. **The reasoning behind this week's decisions** (including options we rejected)
