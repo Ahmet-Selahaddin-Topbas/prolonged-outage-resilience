@@ -1,0 +1,19 @@
+code,name_on_google_maps,category,tier_guess,source,verified,note
+B01,Merkez Araştırma Laboratuvarı,Laboratuvar,K1?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B02,Havacılık ve Uzay Bilimleri,Derslik/fakülte,K3?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B03,Mühendislik Fakültesi 2. Etap (a),Derslik/fakülte,K3?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B04,Mühendislik Fakültesi 2. Etap (b),Derslik/fakülte,K3?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B05,Yabancı Diller Yüksekokulu,Derslik/fakülte,K3?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B06,Rektörlük,İdari,?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B07,Rektörlük Ek Bina,İdari,?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B08,Öğrenci İşleri,İdari,?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B09,"Yemek birimi (haritada yalnız simge, ad okunmuyor)",Yemekhane,K2?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B10,Bakım Onarım Birimi Binası,Teknik/enerji,?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B11,Sığınak Binası,Sığınak/acil,?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B12,Spor Salonu,Spor,?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+B13,Açık Spor Tesisleri,Spor,?,Google Maps 2026-11-06,no,tier is a guess from the name; to be checked on the site walk
+N01,Giriş Kapısı,Referans noktası,,Google Maps 2026-11-06,no,point of interest; not a building
+N02,Trafo (haritadaki ad),Elektrik altyapısı,,Google Maps 2026-11-06,no,point of interest; not a building
+N03,Ana Su Deposu,Su altyapısı,,Google Maps 2026-11-06,no,point of interest; not a building
+N04,Sulama Suyu Depoları,Su altyapısı,,Google Maps 2026-11-06,no,point of interest; not a building
+N05,Sit Alanı,Açık alan (toplanma adayı?),,Google Maps 2026-11-06,no,point of interest; not a building

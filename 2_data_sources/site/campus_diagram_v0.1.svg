@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="1090" viewBox="0 0 1420 1090" font-family="Arial, Helvetica, sans-serif">
+<rect width="1420" height="1090" fill="#FAFAF7"/>
+<text x="30" y="40" font-size="24" font-weight="bold" fill="#12263F">ATÜ Campus: Site Register Diagram v0.1 (pre-walk draft)</text>
+<text x="30" y="64" font-size="14" fill="#5B6573">Schematic, not to scale. Names and rough positions from Google Maps (6 Nov 2026); every item is unverified until the site walk.</text>
+<polyline fill="none" stroke="#D5DAE1" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" points="910,85 780,85 842,140 845,560 630,560"/>
+<polyline fill="none" stroke="#D5DAE1" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" points="625,270 625,650 690,760 630,880 480,985 220,1040 140,950 140,820 280,690 385,600 385,270"/>
+<polyline fill="none" stroke="#D5DAE1" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" points="385,270 625,270"/>
+<rect x="155.0" y="270.0" width="230" height="40" rx="6" fill="#DCE8F7" stroke="#2B5C9E" stroke-width="1.6"/><text x="163.0" y="286.0" font-size="12" font-weight="bold" fill="#12263F">B01 · Central Research Lab</text><text x="163.0" y="301.0" font-size="11" fill="#4A5563">Laboratory · tier guess K1?</text>
+<rect x="220.0" y="410.0" width="230" height="40" rx="6" fill="#DDF0E0" stroke="#2E7D45" stroke-width="1.6"/><text x="228.0" y="426.0" font-size="12" font-weight="bold" fill="#12263F">B02 · Aviation &amp; Space Sciences</text><text x="228.0" y="441.0" font-size="11" fill="#4A5563">Teaching · tier guess K3?</text>
+<rect x="273.0" y="635.0" width="230" height="40" rx="6" fill="#DDF0E0" stroke="#2E7D45" stroke-width="1.6"/><text x="281.0" y="651.0" font-size="12" font-weight="bold" fill="#12263F">B03 · Engineering Fac. Phase 2 (a)</text><text x="281.0" y="666.0" font-size="11" fill="#4A5563">Teaching · tier guess K3?</text>
+<rect x="237.0" y="692.0" width="230" height="40" rx="6" fill="#DDF0E0" stroke="#2E7D45" stroke-width="1.6"/><text x="245.0" y="708.0" font-size="12" font-weight="bold" fill="#12263F">B04 · Engineering Fac. Phase 2 (b)</text><text x="245.0" y="723.0" font-size="11" fill="#4A5563">Teaching · tier guess K3?</text>
+<rect x="373.0" y="575.0" width="230" height="40" rx="6" fill="#DDF0E0" stroke="#2E7D45" stroke-width="1.6"/><text x="381.0" y="591.0" font-size="12" font-weight="bold" fill="#12263F">B05 · Foreign Languages School</text><text x="381.0" y="606.0" font-size="11" fill="#4A5563">Teaching · tier guess K3?</text>
+<rect x="143.0" y="910.0" width="230" height="40" rx="6" fill="#EEF0F3" stroke="#6B7480" stroke-width="1.6"/><text x="151.0" y="926.0" font-size="12" font-weight="bold" fill="#12263F">B06 · Rectorate</text><text x="151.0" y="941.0" font-size="11" fill="#4A5563">Administrative · tier guess ?</text>
+<rect x="155.0" y="783.0" width="230" height="40" rx="6" fill="#EEF0F3" stroke="#6B7480" stroke-width="1.6"/><text x="163.0" y="799.0" font-size="12" font-weight="bold" fill="#12263F">B07 · Rectorate Annex</text><text x="163.0" y="814.0" font-size="11" fill="#4A5563">Administrative · tier guess ?</text>
+<rect x="323.0" y="848.0" width="230" height="40" rx="6" fill="#EEF0F3" stroke="#6B7480" stroke-width="1.6"/><text x="331.0" y="864.0" font-size="12" font-weight="bold" fill="#12263F">B08 · Student Affairs</text><text x="331.0" y="879.0" font-size="11" fill="#4A5563">Administrative · tier guess ?</text>
+<rect x="403.0" y="777.0" width="230" height="40" rx="6" fill="#FDE9D2" stroke="#C26A12" stroke-width="1.6"/><text x="411.0" y="793.0" font-size="12" font-weight="bold" fill="#12263F">B09 · Dining unit (icon only)</text><text x="411.0" y="808.0" font-size="11" fill="#4A5563">Dining · tier guess K2?</text>
+<rect x="652.0" y="692.0" width="230" height="40" rx="6" fill="#EEF0F3" stroke="#6B7480" stroke-width="1.6"/><text x="660.0" y="708.0" font-size="12" font-weight="bold" fill="#12263F">B10 · Maintenance &amp; Repair Unit</text><text x="660.0" y="723.0" font-size="11" fill="#4A5563">Technical · tier guess ?</text>
+<rect x="643.0" y="557.0" width="230" height="40" rx="6" fill="#EEF0F3" stroke="#6B7480" stroke-width="1.6"/><text x="651.0" y="573.0" font-size="12" font-weight="bold" fill="#12263F">B11 · Shelter Building</text><text x="651.0" y="588.0" font-size="11" fill="#4A5563">Shelter · tier guess ?</text>
+<rect x="660.0" y="192.0" width="230" height="40" rx="6" fill="#EEF0F3" stroke="#6B7480" stroke-width="1.6"/><text x="668.0" y="208.0" font-size="12" font-weight="bold" fill="#12263F">B12 · Sports Hall</text><text x="668.0" y="223.0" font-size="11" fill="#4A5563">Sports · tier guess ?</text>
+<rect x="697.0" y="445.0" width="230" height="40" rx="6" fill="#EEF0F3" stroke="#6B7480" stroke-width="1.6"/><text x="705.0" y="461.0" font-size="12" font-weight="bold" fill="#12263F">B13 · Open Sports Facilities</text><text x="705.0" y="476.0" font-size="11" fill="#4A5563">Sports · tier guess ?</text>
+<rect x="815.0" y="77.0" width="230" height="40" rx="6" fill="#FFFFFF" stroke="#8A93A0" stroke-width="1.6" stroke-dasharray="5 3"/><text x="823.0" y="93.0" font-size="12" font-weight="bold" fill="#12263F">N01 · Entrance Gate</text><text x="823.0" y="108.0" font-size="11" fill="#4A5563">Reference point</text>
+<rect x="130.0" y="528.0" width="230" height="40" rx="6" fill="#FFFFFF" stroke="#8A93A0" stroke-width="1.6" stroke-dasharray="5 3"/><text x="138.0" y="544.0" font-size="12" font-weight="bold" fill="#12263F">N02 · Transformer (name on map)</text><text x="138.0" y="559.0" font-size="11" fill="#4A5563">Electrical infrastructure</text>
+<rect x="420.0" y="202.0" width="230" height="40" rx="6" fill="#FFFFFF" stroke="#8A93A0" stroke-width="1.6" stroke-dasharray="5 3"/><text x="428.0" y="218.0" font-size="12" font-weight="bold" fill="#12263F">N03 · Main Water Tank</text><text x="428.0" y="233.0" font-size="11" fill="#4A5563">Water infrastructure</text>
+<rect x="783.0" y="620.0" width="230" height="40" rx="6" fill="#FFFFFF" stroke="#8A93A0" stroke-width="1.6" stroke-dasharray="5 3"/><text x="791.0" y="636.0" font-size="12" font-weight="bold" fill="#12263F">N04 · Irrigation Water Tanks</text><text x="791.0" y="651.0" font-size="11" fill="#4A5563">Water infrastructure</text>
+<rect x="157.0" y="985.0" width="230" height="40" rx="6" fill="#FFFFFF" stroke="#8A93A0" stroke-width="1.6" stroke-dasharray="5 3"/><text x="165.0" y="1001.0" font-size="12" font-weight="bold" fill="#12263F">N05 · Sit (conservation) area</text><text x="165.0" y="1016.0" font-size="11" fill="#4A5563">Open area (assembly candidate?)</text>
+<rect x="1120" y="100" width="280" height="520" rx="8" fill="#FFFFFF" stroke="#D5DAE1"/>
+<text x="1136" y="130" font-size="15" font-weight="bold" fill="#12263F">Legend</text>
+<rect x="1136" y="146" width="22" height="16" rx="3" fill="#DCE8F7" stroke="#2B5C9E"/><text x="1168" y="158" font-size="11.5" fill="#2A3340">Tier guess K1: labs / servers</text>
+<rect x="1136" y="174" width="22" height="16" rx="3" fill="#FDE9D2" stroke="#C26A12"/><text x="1168" y="186" font-size="11.5" fill="#2A3340">Tier guess K2: dining (dorm off-campus)</text>
+<rect x="1136" y="202" width="22" height="16" rx="3" fill="#DDF0E0" stroke="#2E7D45"/><text x="1168" y="214" font-size="11.5" fill="#2A3340">Tier guess K3: classroom cooling</text>
+<rect x="1136" y="230" width="22" height="16" rx="3" fill="#EEF0F3" stroke="#6B7480"/><text x="1168" y="242" font-size="11.5" fill="#2A3340">Tier unknown / other use</text>
+<rect x="1136" y="258" width="22" height="16" rx="3" fill="#FFFFFF" stroke="#8A93A0"/><text x="1168" y="270" font-size="11.5" fill="#2A3340">Infrastructure point (dashed)</text>
+<text x="1136" y="312" font-size="15" font-weight="bold" fill="#12263F">To locate on the walk</text>
+<text x="1136" y="338" font-size="12" fill="#2A3340">☐ Battery storage (existing / planned?)</text>
+<text x="1136" y="362" font-size="12" fill="#2A3340">☐ Hydrogen (existing / planned?)</text>
+<text x="1136" y="386" font-size="12" fill="#2A3340">☐ EV charging</text>
+<text x="1136" y="410" font-size="12" fill="#2A3340">☐ Fire-fighting area</text>
+<text x="1136" y="434" font-size="12" fill="#2A3340">☐ Earthquake assembly area</text>
+<text x="1136" y="458" font-size="12" fill="#2A3340">☐ Server protection places</text>
+<text x="1136" y="482" font-size="12" fill="#2A3340">☐ Generator + fuel tank</text>
+<text x="1136" y="506" font-size="12" fill="#2A3340">☐ Rooftop / ground solar</text>
+<text x="1136" y="546" font-size="11" fill="#5B6573">Source of the list: faculty meeting, 4 Nov 2026.</text>
+<text x="1136" y="562" font-size="11" fill="#5B6573">Dormitory is outside the campus (not modelled).</text>
+</svg>

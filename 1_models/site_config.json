@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "name": "ATU campus, Adana: model configuration",
+    "version": "0.2",
+    "date": "2026-11-07",
+    "note": "Every value with origin 'placeholder' or 'synthetic' is NOT campus data. Empty (null) means: no data yet, not modelled, not zero evidence."
+  },
+  "equal_stored_energy_kwh": 20000,
+  "indicators": {"diesel_kg_co2_per_litre": 2.68, "h2_lhv_kwh_per_kg": 33.3, "water_kg_per_kg_h2": 9.0,
+                 "origin": "typical literature values, to be sourced in the data register before use in results"},
+  "weather": {"t_ref_c": 20.0, "heat_wave_add_c": 8.0, "origin": "synthetic"},
+  "tiers": {
+    "K1": {"name": "labs & servers",       "base_kw": 90.0, "cool_kw_per_c": 3.0,  "profile": "flat",        "origin": "placeholder"},
+    "K2": {"name": "dining",               "base_kw": 15.0, "cool_kw_per_c": 0.8,  "profile": "meals",       "meal_add_kw": 50.0, "origin": "placeholder"},
+    "K3": {"name": "classroom cooling",    "base_kw": 30.0, "cool_kw_per_c": 12.0, "profile": "weekday_day", "origin": "placeholder"}
+  },
+  "sources": {
+    "generator": {"kw": 550.0, "l_per_kwh": 0.27, "origin": "placeholder"},
+    "solar":     {"kwp": 400.0, "origin": "placeholder"},
+    "battery":   {"kw": 600.0, "eta": 0.92, "origin": "placeholder"},
+    "hydrogen":  {"ely_kw": 250.0, "eta_ely": 0.65, "fc_kw": 550.0, "eta_fc": 0.50,
+                  "buffer_batt_kwh": 300.0, "buffer_batt_kw": 300.0, "origin": "placeholder"}
+  },
+  "refuel_variant_hour": 72,
+  "include_planned_nodes": false,
+  "nodes": [
+    {"id": "N_TRF",  "label": "Transformer / grid interface", "kind": "infrastructure", "status": "map label only", "tier": null, "load_kw": null, "params": {}, "map_ref": "N02", "verified": false},
+    {"id": "N_GEN",  "label": "Generator",                    "kind": "generator",      "status": "unknown", "tier": null, "load_kw": null, "params": {}, "map_ref": null, "verified": false},
+    {"id": "N_GTK",  "label": "Generator fuel tank",          "kind": "generator_fuel", "status": "unknown", "tier": null, "load_kw": null, "params": {}, "map_ref": null, "verified": false},
+    {"id": "N_PV",   "label": "Solar (roof / ground)",        "kind": "solar",          "status": "unknown", "tier": null, "load_kw": null, "params": {}, "map_ref": null, "verified": false},
+    {"id": "N_BAT",  "label": "Battery storage",              "kind": "battery",        "status": "unknown", "tier": null, "load_kw": null, "params": {}, "map_ref": null, "verified": false},
+    {"id": "N_H2",   "label": "Hydrogen",                     "kind": "hydrogen",       "status": "unknown", "tier": null, "load_kw": null, "params": {}, "map_ref": null, "verified": false},
+    {"id": "N_SRV",  "label": "Server protection places",     "kind": "load_point",     "status": "unknown", "tier": "1",  "load_kw": null, "params": {}, "map_ref": null, "verified": false},
+    {"id": "N_FIRE", "label": "Fire-fighting area",           "kind": "load_point",     "status": "unknown", "tier": null, "load_kw": null, "params": {}, "map_ref": null, "verified": false},
+    {"id": "N_ASM",  "label": "Earthquake assembly area",     "kind": "load_point",     "status": "unknown", "tier": null, "load_kw": null, "params": {}, "map_ref": null, "verified": false},
+    {"id": "N_EV",   "label": "EV charging",                  "kind": "load_point",     "status": "unknown", "tier": "NC", "load_kw": null, "params": {}, "map_ref": null, "verified": false}
+  ]
+}
