@@ -1,6 +1,6 @@
 # Energy Resilience Under Prolonged Grid Outages
 ### Which Source Holds When the Grid Doesn't?
-*Case study: ATÜ campus, Adana (Türkiye). Research workspace of TOPBASCH Systems Lab. Author: Ahmet Selahaddin Topbaş ([LinkedIn](https://www.linkedin.com/in/ahmet-selahaddin-topbas/)). Status: **v0.2, work in progress, no results yet**. Earlier work by the same lab: the [Léargas SI](https://github.com/Ahmet-Selahaddin-Topbas/leargas-si) analytical framework and three whitepapers.*
+*Case study: ATÜ campus, Adana (Türkiye). Research workspace of TOPBASCH Systems Lab. Author: Ahmet Selahaddin Topbaş ([LinkedIn](https://www.linkedin.com/in/ahmet-selahaddin-topbas/)). Status: **v0.3.2, work in progress, no results yet**. Earlier work by the same lab: the [Léargas SI](https://github.com/Ahmet-Selahaddin-Topbas/leargas-si) analytical framework and three whitepapers.*
 
 ---
 ### ご挨拶 (Greeting)
