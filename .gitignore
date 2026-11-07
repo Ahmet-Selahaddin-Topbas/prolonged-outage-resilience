@@ -1,0 +1,4 @@
+2_data_sources/raw_PRIVATE/
+*.ipynb_checkpoints
+__pycache__/
+.DS_Store
